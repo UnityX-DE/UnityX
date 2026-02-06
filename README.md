@@ -8,7 +8,7 @@ ___
 
 **UnityX** is a built-from-scratch (meaning no code forked from Unity 7) desktop environment aiming to achieve the same goals that UnityX 10 attempted to achieve.
 
-For visual reference on how the desktop environment may look as a finished project, see Canonical's Unity 8 concepts.
+For visual reference on how the desktop environment may look as a finished project, see Canonical's Unity 8 concepts:
 
 | All Scopes | Some Scopes | Few Scopes |
 | :---: | :---: | :---: |
