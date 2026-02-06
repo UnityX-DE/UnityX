@@ -1,6 +1,3 @@
-import os
-import sys
-
 class UnityXCompositor:
     def __init__(self, display_name="wayland-1"):
         self.display_name = display_name
@@ -11,7 +8,7 @@ class UnityXCompositor:
         try:
             print("Creating Wayland Display...")
             return True
-        except Exception as e:
+        except Exception as e: # pylint: disable=broad-exception-caught
             print(f"Failed to initialize display: {e}")
             return False
 
