@@ -1,0 +1,3 @@
+pywayland
+pywlroots
+python-xkbcommon
