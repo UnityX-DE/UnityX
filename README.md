@@ -6,7 +6,7 @@
 ![Pylint](https://img.shields.io/github/actions/workflow/status/UnityX-DE/UnityX/pylint.yml?style=flat-square&label=pylint)
 ![Stars](https://img.shields.io/github/stars/UnityX-DE/UnityX?style=flat-square&color=blueviolet)
 
-> This project is not affiliated with Ubuntu Unity or Canonical. This is a hobby project being done in my free time. Be warned: do not use in professional environments unless you are willing to risk bugs, crashes, and errors.
+> This project is not affiliated with Ubuntu Unity or Canonical. UnityX is a community hobby project developed in our free time. Be warned: do not use in professional environments unless you are willing to risk bugs, crashes, and errors.
 
 ---
 
