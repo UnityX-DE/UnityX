@@ -14,6 +14,9 @@
 
 **UnityX** is a built-from-scratch desktop environment (no code forked from Unity 7) designed to bring the iconic Unity 8 aesthetic to the modern Linux desktop.
 
+### 1.0.0 Development Progress
+![](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600)
+
 ### Technical Stack
 
 | Component | Technology |
