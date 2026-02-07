@@ -4,7 +4,7 @@
 
 ## Development Environment
 
-Since **UnityX** targets the Wayland protocol, development is best done on a Linux-based system. If you are on Windows, I recommend using WSL2 with WSLg support.
+Since **UnityX** targets the Wayland protocol, development is best done on a Linux-based system. We recommend a native Linux environment, but WSL2 with WSLg support is a viable alternative for Windows users.
 
 ### Prerequisites
 
@@ -19,7 +19,7 @@ Since **UnityX** targets the Wayland protocol, development is best done on a Lin
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/MONCHOBRONCHO/UnityX.git
+git clone https://github.com/UnityX-DE/UnityX.git
 ```
 
 2. **Create and activate a virtual environment:**
@@ -33,12 +33,12 @@ pip install -r requirements.txt
 ```
 
 ## Project Standards
-To keep the codebase clean and maintainable, I use a few automated checks:
+To keep the codebase clean and maintainable, we use automated checks:
 > Pylint: Pull requests should aim to maintain the current score (ideally 10/10).   
 > Code Style: General Python PEP 8 guidelines are allowed via the `.pylintrc` configuration.
 
 ## How to Help
-I am looking for assistance with several core components of **UnityX:**
+We are looking for assistance with several core components of **UnityX:**
 
 | Component | Responsibility |
 | :--- | :--- |
@@ -48,4 +48,4 @@ I am looking for assistance with several core components of **UnityX:**
 
 If you want to contribute, feel free to check the **Issues** tab or open a new one to discuss a feature you would like to add to **UnityX.**
 
-> **Note:** While there are no strict rules for commit messages, I generally try to keep them descriptive of the action taken.
+> **Note:** We advise you try to keep your commit messages descriptive.
