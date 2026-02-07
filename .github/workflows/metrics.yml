@@ -16,5 +16,6 @@ jobs:
           user: MONCHOBRONCHO
           repo: UnityX
           template: classic
+          filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
