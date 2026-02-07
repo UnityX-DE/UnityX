@@ -1,10 +1,10 @@
 # UnityX
 
 ![Status](https://img.shields.io/badge/status-in--development-yellow?style=flat-square)
-![License](https://img.shields.io/github/license/MONCHOBRONCHO/UnityX?style=flat-square)
+![License](https://img.shields.io/github/license/UnityX-DE/UnityX?style=flat-square)
 ![Language](https://img.shields.io/badge/language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pylint](https://img.shields.io/github/actions/workflow/status/MONCHOBRONCHO/UnityX/pylint.yml?style=flat-square&label=pylint)
-![Stars](https://img.shields.io/github/stars/MONCHOBRONCHO/UnityX?style=flat-square&color=blueviolet)
+![Pylint](https://img.shields.io/github/actions/workflow/status/UnityX-DE/UnityX/pylint.yml?style=flat-square&label=pylint)
+![Stars](https://img.shields.io/github/stars/UnityX-DE/UnityX?style=flat-square&color=blueviolet)
 
 > This project is not affiliated with Ubuntu Unity or Canonical. This is a hobby project being done in my free time. Be warned: do not use in professional environments unless you are willing to risk bugs, crashes, and errors.
 
